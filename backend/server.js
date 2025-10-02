@@ -117,7 +117,7 @@ async function evaluateAssessmentQuiz(course, answers, questions, nom) {
 
                     note bien: 
 
-                    tout devra etre en francais : level detailed recommendations.
+                    tu devras poser des questions en francais : level detailed recommendations.
                     il est essentiel que le score doit bien etre calculer sans erreur je dis sans erreur.
                     le niveau aussi doit etre bien determiner.
                     il faut addresse a moi (je m'appel ${nom}) lorsque vous faites l'analyse. (ne dit pas bonjour fair l'analyse directement)
